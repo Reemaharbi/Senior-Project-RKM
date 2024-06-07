@@ -27,7 +27,7 @@ Frontend: React Native and JavaScript are used to develop the frontend interface
 Hardware: High-quality cameras and mobile devices are used for testing and capturing student images.
 Screenshots
 
-Below is gif of the video demo of the application, showcasing the homepage of the mobile application:
 ![ezgif-5-313a593e3e](https://github.com/Reemaharbi/Senior-Project-RKM/assets/97175030/2bf85fde-71bd-41a8-b53e-4c06be4836a2)
+
 
 
