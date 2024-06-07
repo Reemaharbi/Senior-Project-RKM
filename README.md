@@ -22,8 +22,6 @@ Technical Stack
 	• Frontend: HTML, CSS, and JavaScript are used to develop the frontend interface for school administrators and parents.
 	• Hardware: High-quality cameras and mobile devices are used for testing and capturing student images.
 
-![image](https://github.com/Reemaharbi/Senior-Project-RKM/assets/97175030/2c81b361-6bca-43dd-957a-a1897ab28b32)
-
 
 
 Screenshots
